@@ -1,6 +1,10 @@
 # About Neural_IIR
 
-This is the website of the project: **A Novel Interactive Information Retrieval System Using Deep Neural Network** supported by the Japan Society for the Promotion of Science (JSPS), PI: Hai-Tao Yu.
+This is the website of the project: **A Novel Interactive Information Retrieval System Using Deep Neural Network**.
+
+Sponsor: the Japan Society for the Promotion of Science (JSPS)
+
+PI: Hai-Tao Yu.
 
 # Publications
 
