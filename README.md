@@ -12,6 +12,6 @@ This is the website of the project: **A Novel Interactive Information Retrieval 
 
 **Hai-Tao Yu**, Jatowt Adam, Roi Blanco, Hideo Joho, Joemon Jose, Long Chen, and Fajie Yuan. Revisiting the Cluster-based Paradigm for Implicit Search Result Diversification. Information Processing and Management, 54(4):507-528, 2018. (Impact Factor: 3.444, CORE-Rank: A)
 
-# Codes
+# Code
 
 [PTL2R(Learning to Rank in PyTorch)](https://ptl2r.github.io)
