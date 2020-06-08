@@ -16,4 +16,4 @@ This is the website of the project: **A Novel Interactive Information Retrieval 
 
 # Code
 
-[PTL2R(Learning to Rank in PyTorch)](https://pt-ranking.github.io)
+[PT-Ranking(Learning to Rank in PyTorch)](https://pt-ranking.github.io)
